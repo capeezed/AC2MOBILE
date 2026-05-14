@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "224917437009",
+    "project_id": "treinofit-45cfa",
+    "storage_bucket": "treinofit-45cfa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224917437009:android:e92bdb8e4bd776faa2d670",
+        "android_client_info": {
+          "package_name": "com.facens.ac2melissagabriel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaHHfPUfBGFxnnlAj3PUTmfaDpTaCT7lU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
